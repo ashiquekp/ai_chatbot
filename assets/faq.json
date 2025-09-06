@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "q": "hello",
+      "a": "Hi! How can I help you today?"
+    },
+    {
+      "q": "what is this app",
+      "a": "A Flutter chatbot demo that works offline and online."
+    },
+    {
+      "q": "who made you",
+      "a": "I was created as a Flutter sample project."
+    },
+    {
+      "q": "how to switch mode",
+      "a": "Use the toggle in the app bar to switch offline/online modes."
+    }
+  ]
+}
